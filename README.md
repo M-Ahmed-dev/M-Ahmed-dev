@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="github.gif" alt="GitHub GIF">
+</div>
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">"Crafting Scalable Web Applications with MERN. A passionate developer constantly exploring new tech trends and driving innovation."</h3>
 
