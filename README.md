@@ -2,7 +2,6 @@
   <img src="github.gif" alt="GitHub GIF">
 </div>
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">"Crafting Scalable Web Applications with MERN. A passionate developer constantly exploring new tech trends and driving innovation."</h3>
 
 - 💬 Ask me about **Javascript, React, Next Js, State Management, Servers, Clustering, Load Balancing, Databases, Express & Node, Mongodb & postgresql**
 
