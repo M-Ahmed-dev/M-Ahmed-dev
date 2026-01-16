@@ -4,15 +4,11 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">"Crafting Scalable Web Applications with MERN. A passionate developer constantly exploring new tech trends and driving innovation."</h3>
 
-- 🔭 I’m currently working on Tapday, a platform that empowers users to instantly create mobile apps. [Tapday](https://www.tapday.com/)
-
-- 🌱 I’m currently learning **LLMs, RAG and AI engineering**
-
 - 💬 Ask me about **Javascript, React, Next Js, State Management, Servers, Clustering, Load Balancing, Databases, Express & Node, Mongodb & postgresql**
 
 - 📫 How to reach me **https://www.linkedin.com/in/muhammadahmad09/**
 
-- ⚡ Fun fact **Spending hours experimenting with new technologies, but I’ll never say no to a good cup of Chai while coding XD**
+- ⚡ Fun fact **Spending hours experimenting with new technologies, but I’ll never say no to a good cup of Chai while coding 😒**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
