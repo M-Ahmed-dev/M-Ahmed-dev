@@ -3,11 +3,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 
-- 💬 Ask me about **Javascript, React, Next Js, State Management, Servers, Clustering, Load Balancing, Databases, Express & Node, Mongodb & postgresql**
+* 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, System Design, State Management, AI, PostgreSQL, AWS, and scalable backend architecture**
 
-- 📫 How to reach me **https://www.linkedin.com/in/muhammadahmad09/**
-
-- ⚡ Fun fact **Spending hours experimenting with new technologies, but I’ll never say no to a good cup of Chai while coding 😒**
+* ⚡ **Building products, breaking things, fixing them, and shipping better versions. Powered by curiosity and an unreasonable amount of Chai. ☕**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
